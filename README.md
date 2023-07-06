@@ -18,7 +18,7 @@ This Bash script provides a tool for encrypting and decrypting text using emojis
 1. Make sure you have Bash installed on your system.
 2. Clone the repository or download the Bash script.
 3. Make the script executable: `chmod +x emojicrypt.sh`
-4. Run the script: `./script.sh`
+4. Run the script: `./emojicrypt.sh`
 5. Follow the menu prompts to encrypt or decrypt text using emojis.
 
 ## Example
